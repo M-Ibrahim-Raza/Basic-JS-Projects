@@ -1,0 +1,28 @@
+#calculator{
+  margin: 10px;
+  border: 1px solid rgb(209, 211, 207) ;
+  width: 270px;
+  height: 400px;
+}
+
+#resultDisplay{
+  margin: 10px;
+  margin-left: 29px;
+  width: 76%;
+  font-size: 15px;
+  height: 30px;
+}
+
+#button{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+
+.button{
+  margin: 2px 8px;
+  width: 58px;
+  height: 53px;
+  font-size: 15px;
+  font-weight:500;
+}
